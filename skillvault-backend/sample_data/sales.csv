@@ -1,0 +1,26 @@
+order_id,date,customer,product,category,quantity,unit_price,region,salesperson
+ORD-1001,2026-01-05,TechCorp India,Laptop Pro,Electronics,5,85000,West,Rahul Verma
+ORD-1002,2026-01-08,Infosystems Ltd,Monitor 27,Electronics,10,22000,South,Suresh Pillai
+ORD-1003,2026-01-12,Global Solutions,Wireless Mouse,Accessories,50,1200,North,Karan Malhotra
+ORD-1004,2026-01-15,Apex Innovations,Mechanical Keyboard,Accessories,15,4500,West,Aditya Kulkarni
+ORD-1005,2026-01-18,DataDynamics,Laptop Air,Electronics,8,65000,East,Rahul Verma
+ORD-1006,2026-01-22,CloudScale Inc,USB Hub,Accessories,30,1500,South,Suresh Pillai
+ORD-1007,2026-01-25,Nexus Enterprise,Webcam,Electronics,20,3500,North,Karan Malhotra
+ORD-1008,2026-01-28,CyberSoft,Keyboard,Accessories,25,2000,West,Aditya Kulkarni
+ORD-1009,2026-02-02,TechCorp India,Monitor 27,Electronics,8,22000,West,Rahul Verma
+ORD-1010,2026-02-05,Synergy Labs,Laptop Pro,Electronics,12,85000,North,Karan Malhotra
+ORD-1011,2026-02-10,OmniHealth,Laptop Air,Electronics,5,65000,South,Suresh Pillai
+ORD-1012,2026-02-14,FinTech Ventures,Mechanical Keyboard,Accessories,20,4500,East,Aditya Kulkarni
+ORD-1013,2026-02-18,EduLearn Ltd,USB Hub,Accessories,40,1500,North,Karan Malhotra
+ORD-1014,2026-02-22,RetailPulse,Wireless Mouse,Accessories,60,1200,West,Rahul Verma
+ORD-1015,2026-02-26,SmartGrid Systems,Webcam,Electronics,15,3500,South,Suresh Pillai
+ORD-1016,2026-03-01,CloudScale Inc,Laptop Pro,Electronics,6,85000,South,Suresh Pillai
+ORD-1017,2026-03-04,Global Solutions,Monitor 27,Electronics,15,22000,North,Karan Malhotra
+ORD-1018,2026-03-08,DataDynamics,Keyboard,Accessories,35,2000,East,Aditya Kulkarni
+ORD-1019,2026-03-12,Apex Innovations,Laptop Air,Electronics,10,65000,West,Rahul Verma
+ORD-1020,2026-03-15,Infosystems Ltd,Mechanical Keyboard,Accessories,25,4500,South,Suresh Pillai
+ORD-1021,2026-03-18,FinTech Ventures,Laptop Pro,Electronics,4,85000,East,Aditya Kulkarni
+ORD-1022,2026-03-22,CyberSoft,USB Hub,Accessories,50,1500,West,Rahul Verma
+ORD-1023,2026-03-25,TechCorp India,Wireless Mouse,Accessories,80,1200,West,Rahul Verma
+ORD-1024,2026-03-28,Synergy Labs,Webcam,Electronics,25,3500,North,Karan Malhotra
+ORD-1025,2026-03-30,OmniHealth,Monitor 27,Electronics,12,22000,South,Suresh Pillai

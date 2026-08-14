@@ -1,0 +1,26 @@
+employee_id,name,department,role,age,salary,experience_years,location,joining_date,performance_rating
+EMP001,Aarav Sharma,Engineering,Senior Software Engineer,32,1850000,8,Bangalore,2020-03-15,4.8
+EMP002,Priya Patel,Product,Lead Product Manager,35,2400000,11,Mumbai,2018-07-01,4.9
+EMP003,Rahul Verma,Sales,Enterprise Account Exec,29,1400000,5,Delhi,2021-01-10,4.2
+EMP004,Ananya Rao,Marketing,Growth Marketing Lead,31,1650000,7,Hyderabad,2019-11-20,4.5
+EMP005,Vikram Singh,Engineering,Staff Infrastructure Engineer,38,2900000,14,Pune,2016-04-12,4.9
+EMP006,Neha Gupta,HR,HR Business Partner,28,1100000,4,Gurgaon,2022-02-01,4.1
+EMP007,Rohan Mehta,Finance,Financial Analyst,30,1350000,6,Mumbai,2020-08-15,4.3
+EMP008,Kavya Iyer,Engineering,Frontend Engineer,26,1200000,3,Chennai,2022-06-15,4.6
+EMP009,Aditya Kulkarni,Sales,Regional Sales Manager,36,2200000,12,Pune,2017-09-05,4.7
+EMP010,Siddharth Joshi,Product,Product Designer,27,1250000,4,Bangalore,2021-05-10,4.4
+EMP011,Pooja Nair,Engineering,Backend Engineer,29,1500000,6,Kolkata,2020-10-01,4.6
+EMP012,Manish Kumar,Marketing,Content Strategist,27,950000,3,Noida,2023-01-15,4.0
+EMP013,Shreya Banerjee,Engineering,Data Scientist,31,1950000,7,Bangalore,2019-04-01,4.8
+EMP014,Tanvi Saxena,HR,Talent Acquisition Specialist,26,900000,3,Delhi,2022-09-01,4.2
+EMP015,Karan Malhotra,Sales,Sales Associate,25,800000,2,Gurgaon,2023-03-01,3.9
+EMP016,Deepak Reddy,Engineering,DevOps Lead,34,2300000,10,Hyderabad,2018-02-15,4.7
+EMP017,Meera Sundaram,Finance,Senior Accounting Manager,39,2600000,15,Chennai,2015-11-01,4.8
+EMP018,Varun Deshmukh,Engineering,QA Manager,33,1750000,9,Pune,2019-08-20,4.4
+EMP019,Ritu Chaudhry,Product,Product Analyst,26,1050000,3,Noida,2022-11-15,4.3
+EMP020,Suresh Pillai,Sales,Customer Success Lead,32,1600000,7,Chennai,2020-05-01,4.5
+EMP021,Ishita Sen,Marketing,SEO Manager,28,1150000,5,Kolkata,2021-07-15,4.1
+EMP022,Gaurav Bhatt,Engineering,Security Engineer,30,1800000,7,Bangalore,2021-03-01,4.6
+EMP023,Divya Menon,Finance,Finance Director,42,3500000,18,Mumbai,2013-06-10,5.0
+EMP024,Nikhil Agarwal,Engineering,Engineering Manager,37,3200000,13,Bangalore,2017-01-15,4.9
+EMP025,Swati Mishra,HR,Head of HR,40,3100000,16,Delhi,2014-09-01,4.8

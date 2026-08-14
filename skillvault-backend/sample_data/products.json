@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P001",
+    "name": "Laptop Pro 16",
+    "category": "Electronics",
+    "price": 85000,
+    "stock": 42,
+    "rating": 4.8,
+    "tags": ["laptop", "professional", "high-performance"]
+  },
+  {
+    "id": "P002",
+    "name": "Laptop Air 13",
+    "category": "Electronics",
+    "price": 65000,
+    "stock": 18,
+    "rating": 4.6,
+    "tags": ["laptop", "portable", "lightweight"]
+  },
+  {
+    "id": "P003",
+    "name": "UltraWide Monitor 27",
+    "category": "Electronics",
+    "price": 22000,
+    "stock": 25,
+    "rating": 4.7,
+    "tags": ["display", "monitor", "4k"]
+  },
+  {
+    "id": "P004",
+    "name": "Wireless Ergonomic Mouse",
+    "category": "Accessories",
+    "price": 1200,
+    "stock": 85,
+    "rating": 4.3,
+    "tags": ["mouse", "wireless", "ergonomic"]
+  },
+  {
+    "id": "P005",
+    "name": "RGB Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 4500,
+    "stock": 15,
+    "rating": 4.9,
+    "tags": ["keyboard", "mechanical", "gaming"]
+  },
+  {
+    "id": "P006",
+    "name": "USB-C Multiport Hub",
+    "category": "Accessories",
+    "price": 1500,
+    "stock": 60,
+    "rating": 4.2,
+    "tags": ["hub", "usb-c", "adapter"]
+  },
+  {
+    "id": "P007",
+    "name": "HD 1080p Webcam",
+    "category": "Electronics",
+    "price": 3500,
+    "stock": 30,
+    "rating": 4.5,
+    "tags": ["webcam", "video", "streaming"]
+  },
+  {
+    "id": "P008",
+    "name": "Gigabit Wi-Fi 6 Router",
+    "category": "Networking",
+    "price": 4800,
+    "stock": 12,
+    "rating": 4.6,
+    "tags": ["router", "networking", "wifi"]
+  },
+  {
+    "id": "P009",
+    "name": "Noise Cancelling Headset",
+    "category": "Accessories",
+    "price": 8500,
+    "stock": 22,
+    "rating": 4.7,
+    "tags": ["audio", "headset", "bluetooth"]
+  },
+  {
+    "id": "P0010",
+    "name": "Ergonomic Mesh Office Chair",
+    "category": "Office",
+    "price": 14500,
+    "stock": 10,
+    "rating": 4.4,
+    "tags": ["furniture", "office", "ergonomic"]
+  }
+]

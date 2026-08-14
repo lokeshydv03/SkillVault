@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 11 13 16;
+    --foreground: 244 244 245;
+  }
+
+  body {
+    background-color: #0B0D10;
+    color: #F4F4F5;
+    font-family: var(--font-inter), system-ui, -apple-[#B0EB0A], sans-serif;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0D10;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1F2531;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2E374A;
+}
+
+@keyframes spinSlow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spinSlow 8s linear infinite;
+}
