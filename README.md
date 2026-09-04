@@ -205,9 +205,3 @@ PYTHONPATH=. ./venv/bin/pytest -v
 | `POST` | `/api/v1/skills/{id}/execute` | Direct execution endpoint for a specific skill. |
 | `GET` | `/api/v1/analytics/overview` | Returns aggregate vault analytics, total cost saved, and success rates. |
 
----
-
-## 📄 License & Author
-
-* **Author**: Yash Deshmukh ([GitHub: Yashrd2002](https://github.com/Yashrd2002))
-* **License**: MIT License
