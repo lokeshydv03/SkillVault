@@ -157,7 +157,7 @@ SkillVault includes 6 trusted built-in enterprise capabilities ready out of the 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Yashrd2002/SkillVault.git
+git clone https://github.com/lokeshydv03/SkillVault.git
 cd SkillVault
 ```
 
