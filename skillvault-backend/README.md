@@ -2,7 +2,7 @@
 
 **SkillVault** is a FastAPI backend and agent orchestration platform for a self-evolving AI agent that can acquire, store, retrieve, execute, and reuse software capabilities called **Skills**.
 
-> An AI agent should not generate a solution from scratch every time it encounters a task. When it discovers that it lacks a capability, it should synthesize a reusable Skill, store that Skill in a persistent Skill Vault, and retrieve it for future tasks.
+> An AI agent should not generate a solution from scratch every time it encounters a task. When it discovers that it lacks a capability, it should synthesize a reusable Skill, store that Skill in a persistent Skill Vault, and retrieve it for future tasks and operations.
 
 ---
 
