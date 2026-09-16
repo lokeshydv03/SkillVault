@@ -174,6 +174,6 @@ While SkillVault already features an end-to-end self-evolving pipeline, the foll
 
 ## 7. License & Credits
 
-* **Author**: Yash Deshmukh ([GitHub: Yashrd2002](https://github.com/Yashrd2002))
-* **Repository**: [https://github.com/Yashrd2002/SkillVault.git](https://github.com/Yashrd2002/SkillVault.git)
+* **Author**: Lokesh Yadav ([https://github.com/lokeshydv03/SkillVault))
+* **Repository**: [https://github.com/lokeshydv03/SkillVault](https://github.com/lokeshydv03/SkillVault)
 * **License**: MIT License
